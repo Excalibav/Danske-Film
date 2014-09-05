@@ -1,17 +1,17 @@
 <item>
- <name>Danish (NEW)</name>
+ <name>Nye Danske Film</name>
  <link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/NyeDanskeFilm.xml</link>
  <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWJUhufd1XNR7CiXtT8tFqj0pHNmkQuS5D4x0AbAhrfv0BgVEo</thumbnail>
  </item>
 
 <item>
- <name>Danish (OLD)</name>
+ <name>Gamle Danske Film</name>
  <link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/GamleDanskefilm.xml</link>
  <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDZpZhIIoBQi2K633c1XtqCWfRLs6bIOC3okTrsH4HCCaAkQNb</thumbnail>
  </item>
 
 <item>
- <name>Kidz Zone</name>
+ <name>Børnefilm</name>
  <link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/B%C3%B8rneFilm.xml</link>
  <thumbnail>http://www.wfpcardiff.co.uk/images/KidsZone.jpg</thumbnail>
  </item>
