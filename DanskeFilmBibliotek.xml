@@ -1,29 +1,29 @@
 <item>
- <name>Nye Danske Film</name>
- <link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/NyeDanskeFilm.xml</link>
- <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWJUhufd1XNR7CiXtT8tFqj0pHNmkQuS5D4x0AbAhrfv0BgVEo</thumbnail>
- </item>
+<name>Nye Danske Film</name>
+<link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/NyeDanskeFilm.xml</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWJUhufd1XNR7CiXtT8tFqj0pHNmkQuS5D4x0AbAhrfv0BgVEo</thumbnail>
+</item>
 
 <item>
- <name>Gamle Danske Film</name>
- <link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/GamleDanskefilm.xml</link>
- <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDZpZhIIoBQi2K633c1XtqCWfRLs6bIOC3okTrsH4HCCaAkQNb</thumbnail>
- </item>
+<name>Gamle Danske Film</name>
+<link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/GamleDanskefilm.xml</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDZpZhIIoBQi2K633c1XtqCWfRLs6bIOC3okTrsH4HCCaAkQNb</thumbnail>
+</item>
 
 <item>
- <name>Børnefilm</name>
- <link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/B%C3%B8rneFilm.xml</link>
- <thumbnail>http://www.wfpcardiff.co.uk/images/KidsZone.jpg</thumbnail>
- </item>
+<name>Børnefilm</name>
+<link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/B%C3%B8rneFilm.xml</link>
+<thumbnail>http://www.wfpcardiff.co.uk/images/KidsZone.jpg</thumbnail>
+</item>
 
 <item>
- <name>OlsenBanden 1-14 BOX</name>
- <link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/OlsenbandenBox.xml</link>
- <thumbnail>http://www.iben-og-kurt.webbyen.dk/billed.asp?PrivatBilled=3209208</thumbnail>
- </item>
+<name>OlsenBanden 1-14 BOX</name>
+<link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/OlsenbandenBox.xml</link>
+<thumbnail>http://www.iben-og-kurt.webbyen.dk/billed.asp?PrivatBilled=3209208</thumbnail>
+</item>
 
 <item>
- <name>Rejseholdet</name>
- <link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/Rejseholdet.xml</link>
- <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/22/Rejseholdet.jpg</thumbnail>
- </item>
+<name>Rejseholdet</name>
+<link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/Rejseholdet.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/2/22/Rejseholdet.jpg</thumbnail>
+</item>
