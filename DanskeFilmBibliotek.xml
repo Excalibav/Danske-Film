@@ -27,3 +27,9 @@
 <link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/Rejseholdet.xml</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/22/Rejseholdet.jpg</thumbnail>
 </item>
+
+<item>
+<name>Test</name>
+<link>https://raw.githubusercontent.com/Excalibav/Danske-Film/master/test.xml</link>
+<thumbnail>http://t2.ftcdn.net/jpg/00/44/89/75/400_F_44897512_xRGpSfTzsNDhhJouBy2VSY1G4kncvnjj.jpg</thumbnail>
+</item>
